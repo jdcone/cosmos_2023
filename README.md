@@ -4,7 +4,7 @@
  
  All students went through these notebooks in week 1 to get a basic understanding of the python language.
  For those students experienced with python, this was a refresher. Many students had experience with java or 
- another programming language and these notebooks highlight the differences in python. For students new to 
+ another programming language and these notebooks highlight the differences with python. For students new to 
  programming (less than 10%) , additional help and guidance was provided.
 
 ## Sequence of Jupyter Notebooks for learning Python Basics: 
@@ -37,7 +37,7 @@
 
    What is pythonic code?  [zen\_of\_python.ipynb]
 
-   Pythonic way Part 1 [pythonic\_way1.ipynb]
+   Pythonic way Part 1 [pythonic\_way2.ipynb]
 
    Pythonic way Part 2 [pythonic\_way1.ipynb] 
  
